@@ -1,4 +1,4 @@
 # ubuntu-config
 my ubuntu config
-pop os icon
+Papirus icon theme
 nordic-master Application
